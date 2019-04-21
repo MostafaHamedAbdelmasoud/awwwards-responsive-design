@@ -1,0 +1,21 @@
+document.getElementById("dr1").onclick=function()
+{
+    location.href="file:///D:/Course%20l%20web%20design/Project/Doctors/Dr-William.html";
+}
+
+document.getElementById("dr2").onclick=function()
+{
+    location.href="file:///D:/Course%20l%20web%20design/Project/Doctors/Dr-myele.html";
+}
+document.getElementById("dr3").onclick=function()
+{
+    location.href="file:///D:/Course%20l%20web%20design/Project/Doctors/Dr-khalid.html";
+}
+document.getElementById("dr4").onclick=function()
+{
+    location.href="file:///D:/Course%20l%20web%20design/Project/Doctors/Dr-naresh.html";
+}
+document.getElementById("dr5").onclick=function()
+{
+    location.href="file:///D:/Course%20l%20web%20design/Project/Doctors/Dr-mark.html";
+}
